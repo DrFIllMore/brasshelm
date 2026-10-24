@@ -1,0 +1,15 @@
+{
+  "name": "Brasshelm",
+  "short_name": "Brasshelm",
+  "description": "A brass-helmet diver descends to rescue the lost crew.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#041820",
+  "theme_color": "#0b3b4a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
